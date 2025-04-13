@@ -1,6 +1,7 @@
 # EmotionRecognizer 🎧
-![GitHub stars](https://img.shields.io/github/stars/WonderSpMac/EmotionRecognizer)
-![GitHub forks](https://img.shields.io/github/forks/WonderSpMac/EmotionRecognizer)
+## 📊 项目信息
+![GitHub stars](https://img.shields.io/github/stars/WonderSpMac/EmotionRecognizer?style=social)
+![GitHub forks](https://img.shields.io/github/forks/WonderSpMac/EmotionRecognizer?style=social)
 ![GitHub license](https://img.shields.io/github/license/WonderSpMac/EmotionRecognizer)
 
 一个基于语音的情绪识别系统，支持识别四种情绪：
